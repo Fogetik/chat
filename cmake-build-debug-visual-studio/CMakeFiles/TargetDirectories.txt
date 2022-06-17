@@ -1,0 +1,3 @@
+C:/Program1/chat/cmake-build-debug-visual-studio/CMakeFiles/chat.dir
+C:/Program1/chat/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Program1/chat/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
